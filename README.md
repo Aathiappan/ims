@@ -16,8 +16,9 @@ This is used to track product inventory.
 ## working
  - It only have restAPI. You can connect your app via restAPI using Bearer access token.
  - After you can create , read, update and delete product via apis
-##Blog post
-Documented blog post for this project [https://webapp-developer.blogspot.com/2025/07/inventory-management-system-project.html](https://webapp-developer.blogspot.com/2025/07/inventory-management-system-project.html)
+ 
+## Blog post
+- Documented blog post for this project [https://webapp-developer.blogspot.com/2025/07/inventory-management-system-project.html](https://webapp-developer.blogspot.com/2025/07/inventory-management-system-project.html)
 
 Below details are codeigniter default readme details.
 # CodeIgniter 4 Application Starter
